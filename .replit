@@ -1,0 +1,1 @@
+run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Palindrome.java; java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Palindrome madam racecar apple kayak song noon" 
