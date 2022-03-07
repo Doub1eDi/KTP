@@ -1,1 +1,1 @@
-run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Lab2.java; java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Lab2 " 
+run = "javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d .  AStarApp.java; java -classpath .:/run_dir/junit-4.12.jar:target/dependency/*  AStarApp " 
